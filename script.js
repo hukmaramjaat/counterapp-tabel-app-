@@ -19,6 +19,5 @@ increment.addEventListener('click',() =>{
 }) 
 
 rest.addEventListener('click',() =>{
-    input.value = 0;
     numberSh.innerText = 0;
 })
